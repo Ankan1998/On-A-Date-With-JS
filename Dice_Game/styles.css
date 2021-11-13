@@ -1,0 +1,50 @@
+
+h1 {
+  margin: 30px;
+  font-family: 'Akronim', cursive;
+  text-shadow: 5px 0 #544179;
+  font-size: 6rem;
+  color: #B983FF;
+  text-align: center;
+}
+
+.dice1 {
+  display: flex;
+  float: left;
+  width: 50%;
+}
+.dice2 {
+  display: flex;
+  float: left;
+  width: 50%;
+   
+}
+
+body {
+  background-color: #142F43;
+}
+
+
+
+p {
+  font-size: 2.5rem;
+  color: #B983FF;
+  font-family: 'Satisfy', cursive;
+}
+
+.img1 {
+  width: 20%;
+}
+.img2 {
+  width: 20%;
+  
+}
+
+footer {
+  margin-top: 25%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Kavoon', cursive;
+  letter-spacing: 10;
+
+}
