@@ -1,0 +1,11 @@
+body {
+    background-color: #142F43;
+  }
+  h1 {
+    margin: 30px;
+    font-family: 'Akronim', cursive;
+    text-shadow: 5px 0 #544179;
+    font-size: 5rem;
+    color: #B983FF;
+    text-align: center;
+  }  
