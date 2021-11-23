@@ -2,10 +2,26 @@ body {
     background-color: #142F43;
   }
   h1 {
-    margin: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px;
     font-family: 'Akronim', cursive;
     text-shadow: 5px 0 #544179;
     font-size: 5rem;
     color: #B983FF;
     text-align: center;
-  }  
+  } 
+  .score_tag{
+      text-align: center;
+      font-family: Kavoon;
+      font-size: 2rem;
+      color: #32C1CD;
+  } 
+  .score{
+      font-size: 3.5rem;
+      padding-left: 0.5rem;
+  }
+  .board{
+      margin: 30px auto;
+      height:308px;
+      width:308px;
+  }
